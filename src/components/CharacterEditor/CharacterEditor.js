@@ -77,7 +77,7 @@ function App() {
           />
         </div>
       </MaxWidthWrapper>
-
+      <div className={styles.decorative}></div>
       <div className={styles.characterWrapper}>
         <Character
           body={body}
